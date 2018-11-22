@@ -13,6 +13,7 @@ BuildRequires: libtool
 BuildRequires: make
 BuildRequires: autoconf
 BuildRequires: automake
+BuildRequires: openssl-devel
 BuildRequires: python3-devel
 BuildRequires: python3dist(setuptools)
 
