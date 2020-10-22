@@ -1,7 +1,7 @@
 %global pyversion 1.4.0
 
 Name:    watchman
-Version: 4.9.0
+Version: 2020.09.21.00
 Release: 2%{?dist}
 Summary: Watches files and records, or triggers actions, when they change.
 License: APL2
